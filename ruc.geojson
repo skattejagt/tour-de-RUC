@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "02",
+        "spørgsmål": "hvilke fag bor her",
+        "svar1": "geo og pbp",
+        "svar2": "hist",
+        "svar3": "teksam",
+        "rigtig": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.141094207763672,
+          55.65331861165442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "bib",
+        "svar2": "",
+        "rigtig": "",
+        "spørgsmål": "hvad kan du her",
+        "svar1": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.136244773864746,
+          55.65169632105655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "humtek",
+        "svar2": "",
+        "svar3": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138304710388184,
+          55.65328229245124
+        ]
+      }
+    }
+  ]
+}
