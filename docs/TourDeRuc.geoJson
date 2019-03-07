@@ -6,10 +6,7 @@
       "properties": {
         "quizPos": "Kantine",
         "Spørgsmål": "Hvad hedder catering firmaet, der laver mad i kantinen?",
-        "Svar1": "1. Your food",
-        "Svar2": "2. Simply cooking",
-        "Svar3": "3. We cook",
-        "Rigtigt": 2
+        "Rigtigt": "simply cooking"
       },
       "geometry": {
         "type": "Point",
@@ -23,11 +20,8 @@
       "type": "Feature",
       "properties": {
         "quizPos": "Bibliotek",
-        "Svar1": "1. 2001",
         "Spørgsmål": "Hvornår blev biblioteket taget i brug?",
-        "Svar2": "2. 2006",
-        "Svar3": "3. 2012",
-        "Rigtigt": 1
+        "Rigtigt": 2001
       },
       "geometry": {
         "type": "Point",
@@ -42,10 +36,7 @@
       "properties": {
         "quizPos": "Studenterhuset",
         "Spørgsmål": "Hvor meget koster en øl i RUC bar?",
-        "Svar1": "1. 30 kr. ",
-        "Svar2": "2. 20 kr. ",
-        "Svar3": "3. 15 kr.",
-        "Rigtigt": 2
+        "Rigtigt": 20
       },
       "geometry": {
         "type": "Point",
@@ -60,10 +51,7 @@
       "properties": {
         "quizPos": "Biografen",
         "Spørgsmål": "Hvad sker der blandt andet i biografen?",
-        "Svar1": "1. De nyeste film bliver vist hver 3. mandag",
-        "Svar2": "2. Der holdes torsdagsgudstjenester ved universitetspræsten Ulla Pierri",
-        "Svar3": "3. Der bliver afholdt diverse studierelevante oplæg etc.",
-        "Rigtigt": 3
+        "Rigtigt": "oplæg"
       },
       "geometry": {
         "type": "Point",
@@ -78,10 +66,7 @@
       "properties": {
         "quizPos": "Hus 40",
         "Spørgsmål": "Hvor mange års jubilæum havde kommunikationsuddannelsen i år 2018?",
-        "Svar1": "1. 40 år",
-        "Svar2": "2. 50 år ",
-        "Svar3": "3. 30 år",
-        "Rigtigt": 1
+        "Rigtigt": 40
       },
       "geometry": {
         "type": "Point",
@@ -95,11 +80,8 @@
       "type": "Feature",
       "properties": {
         "quizPos": "Hjertestarter",
-        "Spørgsmål": "Hvor mange danskere overlever hjertestop i det offentlige rum?",
-        "Svar1": "1. Hver sjette",
-        "Svar2": "2. Hver fjerde",
-        "Svar3": "3. Hver anden ",
-        "Rigtigt": 2
+        "Spørgsmål": "Hvor mange danskere overlever hjertestop i det offentlige rum? (procent)",
+        "Rigtigt": 25
       },
       "geometry": {
         "type": "Point",
@@ -113,11 +95,8 @@
       "type": "Feature",
       "properties": {
         "quizPos": "Hus 02",
-        "Spørgsmål": "Hvilke fag bor her?",
-        "Svar1": "1. Geografi og historie",
-        "Svar2": "2. Geografi og by/plan/proces",
-        "Svar3": "3. Samfundsfag og geografi",
-        "Rigtigt": 2
+        "Spørgsmål": "Hvilket fag bor bl.a. her?",
+        "Rigtigt": "geografi "
       },
       "geometry": {
         "type": "Point",
@@ -132,10 +111,7 @@
       "properties": {
         "quizPos": "Student Hub",
         "Spørgsmål": "Hvad kan man her?",
-        "Svar1": "1. Få studievejledning",
-        "Svar2": "2. Få hjælp til alt der har med SU at gøre",
-        "Svar3": "3. Få hjælp til alt der handler om studieaktivitet",
-        "Rigtigt": 3
+        "Rigtigt": "hjælp til studierelevante problemer"
       },
       "geometry": {
         "type": "Point",
@@ -149,11 +125,8 @@
       "type": "Feature",
       "properties": {
         "quizPos": "Hus 04",
-        "Spørgsmål": "Hvad kan man her?",
-        "Svar1": "1. Bruge Fablab og læse på HumTek",
-        "Svar2": "2. Bruge FabLab og BioFabLab",
-        "Svar3": "3. Læse Psykologi",
-        "Rigtigt": 1
+        "Spørgsmål": "Hvad ligger bl.a. i dette hus?",
+        "Rigtigt": "fablab"
       },
       "geometry": {
         "type": "Point",
