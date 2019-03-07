@@ -9,7 +9,7 @@
         "Svar1": "1. Your food",
         "Svar2": "2. Simply cooking",
         "Svar3": "3. We cook",
-        "Rigtigt": "2. Simply cooking"
+        "Rigtigt": 2
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
         "Spørgsmål": "Hvornår blev biblioteket taget i brug?",
         "Svar2": "2. 2006",
         "Svar3": "3. 2012",
-        "Rigtigt": "1. 2001"
+        "Rigtigt": 1
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +45,7 @@
         "Svar1": "1. 30 kr. ",
         "Svar2": "2. 20 kr. ",
         "Svar3": "3. 15 kr.",
-        "Rigtigt": "2. 20 kr."
+        "Rigtigt": 2
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +63,7 @@
         "Svar1": "1. De nyeste film bliver vist hver 3. mandag",
         "Svar2": "2. Der holdes torsdagsgudstjenester ved universitetspræsten Ulla Pierri",
         "Svar3": "3. Der bliver afholdt diverse studierelevante oplæg etc.",
-        "Rigtigt": "3. Der bliver afholdt diverse studierelevante oplæg etc."
+        "Rigtigt": 3
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@
         "Svar1": "1. 40 år",
         "Svar2": "2. 50 år ",
         "Svar3": "3. 30 år",
-        "Rigtigt": "1. 40 år"
+        "Rigtigt": 1
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +99,7 @@
         "Svar1": "1. Hver sjette",
         "Svar2": "2. Hver fjerde",
         "Svar3": "3. Hver anden ",
-        "Rigtigt": "2. Hver fjerde"
+        "Rigtigt": 2
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
         "Svar1": "1. Geografi og historie",
         "Svar2": "2. Geografi og by/plan/proces",
         "Svar3": "3. Samfundsfag og geografi",
-        "Rigtigt": "2. Geografi og by/plan/proces"
+        "Rigtigt": 2
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +135,7 @@
         "Svar1": "1. Få studievejledning",
         "Svar2": "2. Få hjælp til alt der har med SU at gøre",
         "Svar3": "3. Få hjælp til alt der handler om studieaktivitet",
-        "Rigtigt": "3. Få hjælp til alt der handler om studieaktivitet"
+        "Rigtigt": 3
       },
       "geometry": {
         "type": "Point",
@@ -153,7 +153,7 @@
         "Svar1": "1. Bruge Fablab og læse på HumTek",
         "Svar2": "2. Bruge FabLab og BioFabLab",
         "Svar3": "3. Læse Psykologi",
-        "Rigtigt": "1. Bruge Fablab og læse på HumTek"
+        "Rigtigt": 1
       },
       "geometry": {
         "type": "Point",
